@@ -1,0 +1,8 @@
+{
+  "name": "TOPEducation",
+  "app_id": "6d68d71c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
